@@ -2,7 +2,7 @@
 
 Учебный проект по вёрстке одностраничного сайта аукциона вещей, в которые никто не верил. Страница создана по макету Figma с использованием HTML и CSS.
 
-**Ссылка на репозиторий:** https://github.com/ElizaaaSh/ono-tebe-nado
+**Ссылка на репозиторий:** https://github.com/ElizaaaSh/ono-tebe-nado-ad
 
 ## Оглавление
 
@@ -49,7 +49,7 @@ ono-tebe-nado/
 
 ## Ссылки
 
-- Репозиторий проекта: [GitHub](https://github.com/ElizaaaSh/ono-tebe-nado)
+- Репозиторий проекта: [GitHub](https://github.com/ElizaaaSh/ono-tebe-nado-ad)
 
 ## Автор
 
